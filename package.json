@@ -44,7 +44,7 @@
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-n": "^17.9.0",
-    "eslint-plugin-promise": "^6.2.0",
+    "eslint-plugin-promise": "^6.4.0",
     "flexsearch": "^0.7.43",
     "hugo-bin": "^0.125.0",
     "markdownlint-cli2": "^0.13.0",
